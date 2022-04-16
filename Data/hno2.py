@@ -1,9 +1,0 @@
-("HelloWorld")
-"Tierra"
-"25"
-"Years_at_hth=1.5"
-"Eats_Fruit=True"
-"Strawberry_Box=12"
-"Car_ford"
-"x=50"
-"(myfirst_Name=John)"
