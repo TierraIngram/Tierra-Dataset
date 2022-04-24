@@ -5,8 +5,7 @@ from os import X_OK
 
 
 set1, set2, set3, = [25, 10], [50, 27], [61, 38]
-set1 = 25 - 10 (25-10=15)
-set2 = 50 - 27(50-x)(27-y)=23
+set1 = 25 - 10 
 set3 = 61 - 38
 
 # print(set1, set2, set3)
@@ -54,6 +53,6 @@ numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 for x in numbers:
     if x % 2 == 0:{x}
-        print(f"{x} is even")
-    else: {finally}
-        print(f"{x} is odd")
+    (f"{x} is even")
+
+    print(f"{x} is odd"
