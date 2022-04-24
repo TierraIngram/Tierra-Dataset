@@ -55,4 +55,4 @@ for x in numbers:
     if x % 2 == 0:{x}
     (f"{x} is even")
 
-    print(f"{x} is odd"
+    print(f"{x} is odd")
