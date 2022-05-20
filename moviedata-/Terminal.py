@@ -54,7 +54,16 @@ def user_input(prompt):
     # Get user input here
 
 def select(function_code):
-    # User Selection Code here
+   input_item+("Enter the index postition you are trying
+   to access in the list:  ")
+   read(int(input_item))
+   running = True
+
+   ruturn running 
+   elif Function_code  == "u":
+       input_index =input("enter")
+   to update
+   ") # User Selection Code here
 
     # Create item example
     if function_code == "C":
